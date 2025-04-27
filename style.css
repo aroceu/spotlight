@@ -1,0 +1,198 @@
+ *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-transform: lowercase;
+        }
+
+        body{
+            background: #fafafa;
+            font: normal 1.0em/140% 'Inconsolata', sans-serif;
+            color: #333;
+        }
+        
+        #container{
+            width: 70vw;
+            margin: 3vh auto 4vh;            
+        }
+        
+         h1{
+            font: normal 3.6em 'Rochester', serif;
+            color:rgb(225, 142, 157);
+            text-shadow: 0.02em 0.02em 0 #bdbdbd;
+            text-align: center;
+            margin: 5vh auto 0;
+        }
+
+        h1 small{
+            font-size: 50%;
+            padding: 0 1em;
+        }
+
+        h1 a:link, h1 a:visited{
+            color: inherit;
+            text-decoration: none;
+        }
+
+        h1 a:hover, h1 a:active, h1 a:focus{
+            color: #5C98B2;
+        }
+
+        a:link, a:visited{
+            transition: ease-in-out 0.3s;
+            -webkit-transition: ease-in-out 0.3s;
+            -moz-transition: ease-in-out 0.3s;
+            text-decoration: none;        
+        }
+        
+        a:hover, a:active, a:focus{
+            transition: ease-in-out 0.3s;
+            -webkit-transition: ease-in-out 0.3s;
+            -moz-transition: ease-in-out 0.3s;
+            text-decoration: none;
+            color: #bbb;   
+        } 
+
+        p{
+            padding: 0.5em 0;
+        }
+
+        .link{
+            text-align: center;
+            font-style: italic;
+        }
+
+        .link img{
+            height: 50px!important;
+            width: 50px!important;
+            border-radius: 50px;
+            vertical-align: top;
+            margin-right: 0.5em;
+        }
+
+        a:link, a:visited{
+            color: rgb(225, 142, 157);
+        }
+        a:hover, a:active, a:focus{
+            color: #bbb;
+        }
+
+        .caption{
+            color: #aaa;
+            font-style: italic;
+        }
+
+        strong, em{
+            color:rgb(225, 142, 157);
+        }
+
+        .box, .grid{
+            background: #fff;
+            padding: 2em;
+            box-shadow: 0.1em 0.1em 0.3em #bdbdbd;
+            border: 1px solid rgb(225, 142, 157);
+            margin: 1em auto;
+        }
+
+        #archive{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-start;
+            flex-direction: row;
+            margin: 0 auto;
+            width: 100%;
+            gap: 2%;
+        }
+
+        .column{
+            max-width: 49%;
+            flex: 49%;
+        }
+
+        .grid{
+            height: fit-content;
+            margin-bottom: 5%;
+        }
+
+        .grid h2{
+            color: rgb(225, 142, 157);
+            font: normal 1.3em 'Lexend', sans-serif;
+        }
+
+        .grid h2.link{
+            text-align: center;
+        }
+
+        .grid h2 a:link, .grid h2 a:visited{
+            font: normal 1.5em 'Rochester', cursive;
+            text-decoration: none;
+        }
+
+        .grid img{
+            width: 100%;
+            height: auto;
+        }
+
+        .grid iframe, .grid video{
+            margin: 1.5em 0 0;
+            width: 100%;
+            box-shadow: 0.1em 0.1em 0.3em #bdbdbd;
+        }
+
+        .audio_player{
+            margin: 0!important;
+        }
+
+        a img:hover, a img:active, a img:focus{
+            background:rgb(245, 182, 194);
+            outline: 0.5em solid rgb(245, 182, 194);
+        }
+
+        details{
+    margin: 1em 1em 0;
+    font-size: 0.9em;
+    line-height: 140%;
+    color: #888;
+    padding: 0 2.5em;
+}
+
+summary{
+    color:rgb(225, 142, 157);
+    font-weight: bold;
+    margin-left: -2em;
+    font-size: 1.3em;
+}
+
+.fa-link{
+    font-size: 0.7em;
+}
+
+#navigation ul{
+    list-style: none;
+    padding: 0;
+    margin: 1.5em 0 1em;
+    text-align: center;
+}
+
+#navigation ul li{
+    display: inline-block;
+    margin: 0 1em;
+    color: #888;
+}
+
+#navigation ul li a{
+    padding: 10px;
+}
+
+#navigation ul li a:hover, #navigation ul li a:active, #navigation ul li a:focus{
+    background: rgb(225, 142, 157);
+    color: #fafafa;
+}
+
+ @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+ }
