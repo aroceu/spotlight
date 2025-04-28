@@ -20,16 +20,16 @@
         <div class="column">
 
             <div class="grid">
-                <h2>Among Us but I'm blindfolded, by Alpharad Gold</h2>
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/jo4B7MPqvyg?si=rPopYnpmYtHoi2ct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-
-            <div class="grid">
                 <h2 class="link"><a href="https://www.youtube.com/@STRANGEONS"><img src="creators/strangeaeons.jpg"> Strange Aeons</a></h2>
             </div>
 
             <div class="grid">
                 <h2 class="link"><a href="https://www.youtube.com/playlist?list=PL7Jh-gHAb1fWjX7PbaNRMBmJFtJ6Zkee6"><img src="creators/replay.jpg"> Mongy Mondays</a></h2>
+            </div>
+
+            <div class="grid">
+                <h2>Among Us but I'm blindfolded, by Alpharad Gold</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/jo4B7MPqvyg?si=rPopYnpmYtHoi2ct" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
         </div>
