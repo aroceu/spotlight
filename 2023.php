@@ -12,7 +12,7 @@
         <div class="column">
 
             <div class="grid">
-                <video controls="controls" playsinline="playsinline" muted="muted" poster="https://64.media.tumblr.com/tumblr_s03zbyNWxi1sm7n6r_frame1.jpg"><source src="https://va.media.tumblr.com/tumblr_s03zbyNWxi1sm7n6r.mp4" type="video/mp4" /></video>
+                <video class="notitle" controls="controls" playsinline="playsinline" muted="muted" poster="https://64.media.tumblr.com/tumblr_s03zbyNWxi1sm7n6r_frame1.jpg"><source src="https://va.media.tumblr.com/tumblr_s03zbyNWxi1sm7n6r.mp4" type="video/mp4" /></video>
             </div>
 
         </div>

@@ -139,6 +139,10 @@
             box-shadow: 0.1em 0.1em 0.3em #bdbdbd;
         }
 
+        video.notitle{
+            margin: 0;
+        }
+
         .audio_player{
             margin: 0!important;
         }
