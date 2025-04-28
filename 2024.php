@@ -33,11 +33,6 @@
                 <p class="link"><a href="https://www.youtube.com/playlist?list=PLRSA-iHL6JaLxaBFqayCsE-WHxulQJnCu">Full Playlist</a></p>
             </div>
 
-            <div class="grid">
-                <img src="visuals/bows-eyanin.jpg">
-                <p class="caption">Art by <a href="https://eyanin.tumblr.com/post/701901420341903360">eyanin</a></p>
-            </div>
-
             </div>
 
 <div class="column">
