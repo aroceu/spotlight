@@ -14,10 +14,6 @@
         <div class="column">
 
             <div class="grid">
-                <img src="misc/footscrub.png">
-            </div>
-
-            <div class="grid">
                 <img src="misc/same-hat.jpg">
             </div>
 
