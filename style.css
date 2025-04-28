@@ -189,6 +189,14 @@ summary{
     color: #fafafa;
 }
 
+#footer{
+    text-align: center;
+    font-size: 1.2em;
+    color: rgb(225, 142, 157);
+    text-shadow: 0.02em 0.02em 0 #bdbdbd;
+    margin: 0 auto;
+}
+
  @media only screen and (max-width: 430px) and (min-width: 0px) {
 
 html {
