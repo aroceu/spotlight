@@ -3,7 +3,7 @@
     
     <head>
         
-        <title>aroceu (featured)</title>
+        <title>aroceu (spotlight)</title>
         
         <meta name="robots" content="noai, noimageai">
 
