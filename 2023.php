@@ -24,6 +24,11 @@
             </div>
 
             <div class="grid">
+                <img src="fanart/ling-turnips.jpeg">
+                <p class="caption">Art by <a href="https://6480.carrd.co/">6480</a></p>
+            </div>
+
+            <div class="grid">
                 <h2 class="link"><a href="https://www.youtube.com/playlist?list=PL7Jh-gHAb1fWjX7PbaNRMBmJFtJ6Zkee6"><img src="creators/replay.jpg"> Mongy Mondays</a></h2>
             </div>
 

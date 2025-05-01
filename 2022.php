@@ -47,6 +47,10 @@
                 <h2 class="link"><a href="https://www.youtube.com/@oliSUNvia"><img src="creators/olisunvia.jpg"> oliSUNvia</a></h2>
             </div>
 
+            <div class="grid">
+                <img src="misc/pat-bad-buddy.gif">
+            </div>
+
             
         </div>
 

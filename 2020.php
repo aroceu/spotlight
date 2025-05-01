@@ -28,9 +28,13 @@
 
         <div class="column">
 
-        <div class="grid">
-                <img src="misc/one-fear.jpg">
-            </div>
+            <div class="grid">
+                    <img src="misc/patd-snapchat.png">
+                </div>
+
+            <div class="grid">
+                    <img src="misc/one-fear.jpg">
+                </div>
 
             <div class="grid">
                 <img src="misc/iguess.jpg">

@@ -41,6 +41,10 @@
                 <p class="caption">Full comic by <a href="https://neilblr.com/post/58490668107">Neil Cicierega</a></p>
             </div>
 
+            <div class="grid">
+                <img src="misc/fisted.jpg">
+            </div>
+
         </div>
 
         <div class="column">
