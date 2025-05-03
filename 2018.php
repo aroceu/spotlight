@@ -16,6 +16,13 @@
             <img src="misc/jason-ryan-ross.jpg">
         </div>
 
+        <div class="grid">
+            <img src="misc/urie-believe.jpg">
+            <details><summary>Thoughts:</summary>
+                <p>As summarized in my <a href="https://bsky.app/profile/aroceu.cloud/post/3lobr3o76dc2r">skeet</a>: "while i was on hiatus in 2018 i went to a patd concert & afterward we started talking about bandom & i kinda knew about ryden but my friends didn't so i researched on my phone for deets at an ihop at 1am which resulted in my ryden hyperfixation for 2 yrs. in that ihop someone airdropped this to me and i haven't been able to stop thinking about this very moment since. thank you random stranger whoever you are you don't know what kind of person i became at this very moment"</p>
+            </details>
+        </div>
+
             <div class="grid">
                 <img src="misc/splat-blood.webp">
             </div>
