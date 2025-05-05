@@ -11,6 +11,10 @@
         <div class="column">
 
             <div class="grid">
+                <img src="misc/sliced-meme.jpg">
+            </div>
+
+            <div class="grid">
                 <img src="visuals/birds-yh.jpg">
                 <p class="caption">Photography by Yiannis Hadjiaslanis</p>
             </div>
@@ -30,6 +34,27 @@
         </div>
 
         <div class="column">
+
+        <div class="grid">
+                <h2 class="link"><a href="https://berelyse.org"><i class="fa-solid fa-link"></i> berelyse.org</a></h2>
+                <details><summary>Thoughts:</summary>
+                    <p>This is my friend Bri's creative magnum opus, and that I had a hand in bringing to life with coding
+                        its WordPress theme and helping with other website development stuff :) I'm proud of my own work, and 
+                        I'm even more proud of Bri for this project. Check it out!
+                    </p>
+                </details>
+            </div>
+
+        <div class="grid">
+            <h2>Only 58 People Have Beaten This Pokemon Game, by pChal</h2>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/JzD9Uc7bRK0?si=NW0_OKFO-pbp-QF1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+            <details><summary>Thoughts:</summary>
+            <p>The storytelling! The animations! The creativity with the editing and taking advantage of the form! There's so much I could say about this video, especially as someone who's been watching pChal for a few years. I highly recommend anyone who cares even a little bit about Pok&eacute;mon to watch it.</p>
+            </details>
+
+            </div>
 
             <div class="grid">
                 <img src="visuals/lastlight-mcnab.jpg">
