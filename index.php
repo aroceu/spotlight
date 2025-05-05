@@ -15,6 +15,16 @@
             </div>
 
             <div class="grid">
+                <h2>Raysfire Reacts to SmallAnt to Pointcrow to Purplecliffe to Pointcrow to Pointcrow to the Switch 2</h2>
+
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/8EWqQ3ekaHM?si=12_Wubl6octG_6vK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                
+                <details><summary>Thoughts:</summary>
+                    This is peak Youtube content.
+                </details>
+            </div>
+
+            <div class="grid">
                 <img src="visuals/birds-yh.jpg">
                 <p class="caption">Photography by Yiannis Hadjiaslanis</p>
             </div>
