@@ -46,7 +46,7 @@
         <div class="column">
 
         <div class="grid">
-                <h2 class="link"><a href="https://berelyse.org"><i class="fa-solid fa-link"></i> berelyse.org</a></h2>
+                <h2 class="link"><a href="https://berelyse.org"><i class="fa-solid fa-link"></i> berelyse.org</a> by ellsyx</h2>
                 <details><summary>Thoughts:</summary>
                     <p>This is my friend Bri's creative magnum opus, and that I had a hand in bringing to life with coding
                         its WordPress theme and helping with other website development stuff :) I'm proud of my own work, and 
