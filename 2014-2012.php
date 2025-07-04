@@ -74,6 +74,10 @@
             </div>
 
             <div class="grid">
+                <img src="misc/liam-balls.jpg">
+            </div>
+
+            <div class="grid">
                 <img src="fanart/sansa.png">
             </div>
 
