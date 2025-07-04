@@ -18,6 +18,15 @@
             </div>
 
             <div class="grid">
+                <img src="fanart/lee-harry.jpg">
+                <p class="caption">By Lee</p>
+            </div>
+
+            <div class="grid">
+                <img src="fanart/wendy.jpg">
+            </div>
+
+            <div class="grid">
                 <img src="comics/inkskinned1.png">
                 <img src="comics/inkskinned2.png">
                 <img src="comics/inkskinned3.png">
@@ -58,6 +67,14 @@
                 <img src="comics/25Lives05.jpg">
                 <img src="comics/25Lives06.jpg">
                 <img src="comics/25Lives07.jpg">
+            </div>
+
+            <div class="grid">
+                <img src="misc/sulli.png">
+            </div>
+
+            <div class="grid">
+                <img src="fanart/sansa.png">
             </div>
 
         </div>
