@@ -204,6 +204,11 @@ summary{
 #footer a:link, #footer a:visited{
     color: inherit;
     text-decoration: underline dotted;
+     -webkit-text-decoration-line: underline dotted;
+	-webkit-text-decoration-color: inherit;
+    -webkit-text-decoration-style: dotted;
+    text-decoration-color: inherit;
+    text-decoration-style: dotted;
 }
 
 #footer a:hover, #footer a:active, #footer a:focus{
