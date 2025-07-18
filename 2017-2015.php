@@ -55,6 +55,10 @@
             </div>
 
             <div class="grid">
+                <img src="misc/i-wish-that-were-me.jpeg">
+            </div>
+
+            <div class="grid">
                 <img src="visuals/dragon-lap.jpg">
                 <p class="caption">Dragon Resting Its Head On The Lap Of A Woman - R. Leinweber (1912)</p>
             </div>

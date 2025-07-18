@@ -41,6 +41,10 @@
                 <video height="300" src="https://va.media.tumblr.com/tumblr_p7wh5cB2fn1wn2ftu.mp4" frameborder="0" allow="" allowfullscreen controls></video>
             </div>
 
+            <div class="grid">
+                <img src="misc/commie-bugs-bunny.webp">
+            </div>
+
         </div>
 
     </div>
