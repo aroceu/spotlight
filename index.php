@@ -10,6 +10,14 @@
 
         <div class="column">
 
+            <div class="grid"><!-- june 30 2025 -->
+                <h2>Satisfied - Hamilton (musical)</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/H7Dl0uZhPvs?si=pL0LCNjTjuCcqFRM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                <details><summary>Thoughts:</summary><p>It's been 5 years since I first watched this and 9 since I first heard this song and it's still life-changing every time. The high notes at the end... I am literally obsessed.</p></details>
+                
+             </div>
+
             <div class="grid">
                 <img src="misc/sliced-meme.jpg">
             </div>
