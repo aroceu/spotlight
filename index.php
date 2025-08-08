@@ -53,6 +53,10 @@
 
         <div class="column">
 
+        <div class="grid"> <!-- jul 18 2025 -->
+                <img src="misc/wait-its-all-stories.jpg" alt="Astronaut earth meme: Wait it's all stories? (And generational trauma?) Always has been.">
+        </div>
+
         <div class="grid"> <!-- may 4 2025 -->
                 <img src="misc/indirect-detection.png"></p>
                 <p class="caption"><a href="https://www.explainxkcd.com/wiki/index.php/2071:_Indirect_Detection">2071:</a> "I'm like a prisoner in Plato's Cave, seeing only the shade you throw on the wall."</p>
