@@ -10,7 +10,20 @@
             font: normal 1.0em/140% 'Inconsolata', sans-serif;
             color: #333;
         }
-        
+
+        ::selection {
+            background: rgb(225, 142, 157);
+            color: #e7e7e7ff;
+        }
+        ::-moz-selection {
+            background: rgb(225, 142, 157);
+            color: #e7e7e7ff;
+        }
+        ::-webkit-selection {
+            background: rgb(225, 142, 157);
+            color: #e7e7e7ff;
+        }
+
         #container{
             width: 70vw;
             margin: 3vh auto 4vh;            
