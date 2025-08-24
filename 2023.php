@@ -15,13 +15,13 @@
                 <video class="notitle" controls="controls" playsinline="playsinline" muted="muted" poster="https://64.media.tumblr.com/tumblr_s03zbyNWxi1sm7n6r_frame1.jpg"><source src="https://va.media.tumblr.com/tumblr_s03zbyNWxi1sm7n6r.mp4" type="video/mp4" /></video>
             </div>
 
-        </div>
-
-        <div class="column">
-
             <div class="grid">
                 <h2 class="link"><a href="https://www.youtube.com/@STRANGEONS"><img src="creators/strangeaeons.jpg"> Strange Aeons</a></h2>
             </div>
+
+        </div>
+
+        <div class="column">
 
             <div class="grid">
                 <img src="fanart/ling-turnips.jpeg">
