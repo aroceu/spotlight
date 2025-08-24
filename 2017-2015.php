@@ -21,10 +21,15 @@
             </div>
 
             <div class="grid">
+                <h2>Sugar - Maroon 5 ft. Nicki Minaj (remix) / May J Lee Choreography</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/YGN-ZIjnBVw?si=FPXFZfuKOe1c9sg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+
+            <div class="grid">
                 <img src="misc/is-hold.png">
                 <details>
                     <summary>Thoughts:</summary>
-                    <p>Words cannot describe how often my old roommates and I used to quote this to each other.</p>
+                    <p>Words cannot describe how often my roommates and I used to quote this to each other.</p>
                 </details>
             </div>
 
@@ -49,6 +54,11 @@
         </div>
 
         <div class="column">
+
+            <div class="grid">
+                <h2>Demi Lovato - Sorry Not Sorry - Choreography by Jojo Gomez</h2>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/kTdjNbiNVmc?si=9efytNq9gGIRuj7d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
 
         <div class="grid">
                 <img src="misc/mousekiasorento.png">
